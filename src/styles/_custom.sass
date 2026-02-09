@@ -2,13 +2,23 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
+    top: 38%
     right: 10%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
     top: 51%
-    right: 30%
+    right: 67%
+  &-3
+    animation: float1 2.2s ease-in-out infinite alternate
+    position: absolute
+    top: 25%
+    right: 75%
+  &-4
+    animation: float1 3s ease-in-out infinite alternate
+    position: absolute
+    top: 75%
+    right: 3%
 
 @keyframes float1
   0%
@@ -16,11 +26,9 @@
   100%
     transform: translateY(0px)
   
+///////////CUSTOM BANNER PRINCIPAL E INTERNO/////////////
 .banner-principal .tarjeta
   background-position: left 50% !important
-
-.banner-principal__row .banner-principal__img
-  width: 400px !important  
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: white !important
@@ -30,3 +38,121 @@
 
 figcaption
   font-weight: normal
+
+.banner-principal__row .banner-principal__img
+  width: 500px !important
+  @media screen and (max-width: $bp-max-xl)
+    width: 400px !important
+
+.titulo-principal.color-acento-contenido .titulo-principal__numero span
+  color: $color-sistema-texto !important
+.banner-interno__fondo
+  background-image: url("../assets/curso/banner_interno.png") !important
+.banner-principal .tarjeta
+  @media screen and (max-width: $bp-max-md)
+    background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png") !important
+  @media screen and (max-width: $bp-max-sm)
+    background-image: url("../assets/curso/portada/fondo-banner-principal-xs.png") !important
+
+
+  
+//////////Background_Color///////////
+
+.bg-color
+  &-1
+    background-color: #BCCDB2
+  &-2
+    background-color: #FFC94A
+  &-3
+    background-color: #D9E8F9
+  &-4
+    background-color: #FFE9B5
+  &-5
+    background-color: #EDF2EA
+  &-6
+    background-color: #EBF3FC
+  &-7
+    background-color: #638A4B
+  &-8
+    background-color: #5A8441
+  &-9
+    background-color: #FFF4DA
+
+
+///////Full Width Background///////////////////
+.bg-full-width
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+.bg-full-width-2
+  background-size: contain
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+
+///////////////fondos/////////////////
+.bg-fondo
+  &-1
+    background-image: url("../assets/bg/bg1.svg") !important
+    background-position: top
+  &-2
+    background-image: url("../assets/bg/bg2.svg") !important
+    background-position: top
+  &-slider
+    background-image: url("../assets/bg/bg-slider.png") !important
+    background-position: bottom
+
+//////////////CUSTOM SLYDER-F////////
+// Padding extra para que box-shadow no se corte por overflow:hidden del ScrollHorizontal
+.slyder-f .horizontal-scroll__wrapper
+  padding-bottom: 15px
+  margin-bottom: -15px
+
+//////////////CUSTOM SLYDER-A////////
+.slyder-a__bullets__item
+  background-color: #B4BEAE
+  border: #B4BEAE
+.slyder-a__bullets__item--active
+  background-color: #2C411F
+.slyder-a__btn--atrs, .slyder-a__btn--sigt
+  background-color: #FF9800
+
+//////////////CUSTOM TITULOS////////
+.titulo-h3
+  display: flex
+  align-items: center
+  position: relative
+.titulo-h3__fondo
+  background-color: $color-acento-contenido
+  border-radius: 10px
+  padding: 10px 20px 10px 55px
+  display: inline-flex
+  align-items: center
+.titulo-h3__imagen
+  position: absolute
+  left: 5px
+  width: 55px
+.titulo-h3__texto
+  margin: 0
+  padding-left: 10px
+
+.titulo-h4
+  background-color: #5A8441
+  border-radius: 5px
+  color: white
+  display: inline-block
+  padding: 5px 15px
+
+//////////////BLOQUE TEXTO G////////
+// Estilos base en _texto-destacado.sass (flex, rgba white, colores, responsive)
+// Solo agregar overrides específicos del proyecto aquí
+.bloque-texto-g
+  border-radius: 10px
+  overflow: hidden
