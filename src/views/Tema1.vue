@@ -32,41 +32,41 @@
           img(src="@/assets/curso/tema1/2.png" alt="")
       .col-lg-8(data-aos="fade-left")
         .row
-          .col-lg-6.mb-4(data-aos="fade-up")
-            .bg-color-4.p-4.rounded-3
+          .col-lg-6.mb-3(data-aos="fade-up")
+            .bg-color-4.p-3.rounded-3
               .row.align-items-center
                 .col-lg-auto
                   img(src="@/assets/curso/tema1/3.png" style="max-width: 90px" alt="").m-auto.mb-4.mb-lg-0
                 .col-lg
-                  p.mb-0 Reducción de la agrobiodiversidad.
-          .col-lg-6.mb-4(data-aos="fade-up")
-            .bg-color-4.p-4.rounded-3
+                  p.mb-0.text-center.text-lg-start Reducción de la agrobiodiversidad.
+          .col-lg-6.mb-3(data-aos="fade-up")
+            .bg-color-4.p-3.rounded-3
               .row.align-items-center
                 .col-lg-auto
                   img(src="@/assets/curso/tema1/4.png" style="max-width: 90px" alt="").m-auto.mb-4.mb-lg-0
                 .col-lg
-                  p.mb-0 Fragmentación de los paisajes rurales.
-          .col-lg-6.mb-4(data-aos="fade-up")
-            .bg-color-4.p-4.rounded-3
+                  p.mb-0.text-center.text-lg-start Fragmentación de los paisajes rurales.
+          .col-lg-6.mb-3(data-aos="fade-up")
+            .bg-color-4.p-3.rounded-3
               .row.align-items-center
                 .col-lg-auto
                   img(src="@/assets/curso/tema1/5.png" style="max-width: 90px" alt="").m-auto.mb-4.mb-lg-0
                 .col-lg
-                  p.mb-0 Contaminación de fuentes hídricas.
-          .col-lg-6.mb-4(data-aos="fade-up")
-            .bg-color-4.p-4.rounded-3
+                  p.mb-0.text-center.text-lg-start Contaminación de fuentes hídricas.
+          .col-lg-6.mb-3(data-aos="fade-up")
+            .bg-color-4.p-3.rounded-3
               .row.align-items-center
                 .col-lg-auto
                   img(src="@/assets/curso/tema1/6.png" style="max-width: 90px" alt="").m-auto.mb-4.mb-lg-0
                 .col-lg
-                  p.mb-0 Pérdida de saberes y prácticas tradicionales. 
-          .col-lg-6.mb-4(data-aos="fade-up")
-            .bg-color-4.p-4.rounded-3
+                  p.mb-0.text-center.text-lg-start Pérdida de saberes y prácticas tradicionales.
+          .col-lg-6.mb-3(data-aos="fade-up")
+            .bg-color-4.p-3.rounded-3
               .row.align-items-center
                 .col-lg-auto
                   img(src="@/assets/curso/tema1/7.png" style="max-width: 90px" alt="").m-auto.mb-4.mb-lg-0
                 .col-lg
-                  p.mb-0 Empobrecimiento y compactación del suelo.
+                  p.mb-0.text-center.text-lg-start Empobrecimiento y compactación del suelo.
 
     //- ## compuesto-imagen 9:3
     .row.align-items-center.mb-5
@@ -92,7 +92,7 @@
             .col-xl-5
               figure
                 img(src="@/assets/curso/tema1/8.png" alt="").img-fluid
-        p.mt-4 Como resultado, se han alterado profundamente los equilibrios ecológicos y culturales del territorio, afectando también la soberanía alimentaria, la salud rural y la autonomía de las comunidades.
+        p.mt-4 Como resultado, se han alterado profundamente los #[b equilibrios ecológicos y culturales del territorio], afectando también la #[b soberanía alimentaria], la #[b salud rural] y la #[b autonomía de las comunidades].
       .col-lg-3.mb-3.mb-lg-0(data-aos="fade-left")
         figure
           img(src="@/assets/curso/tema1/9.png" alt="").m-auto
@@ -139,13 +139,13 @@
     //- ## compuesto-imagen 7:5
     .row.align-items-center.mb-5
       .col-lg-7(data-aos="fade-right")
-        .bg-color-5.p-4.rounded-3.mb-4
+        .bg-color-9.p-4.rounded-3
           .row.align-items-center
             .col-lg-auto
               img(src="@/assets/curso/tema1/svg/12.svg" style="max-width: 90px" alt="").m-auto.mb-4.mb-lg-0
             .col-lg
               p.mb-0 En lugar de fomentar procesos como la #[b simbiosis con microorganismos], la #[b descomposición de materia orgánica] o la #[b diversificación biológica], los fertilizantes sintéticos simplifican la nutrición vegetal, desvinculándola de su base ecológica. Esta desconexión afecta la #[b estructura del suelo], su #[b capacidad de retención de agua], y genera una #[b dependencia creciente de insumos externos].
-      .col-lg-5.mb-3.mb-lg-0(data-aos="fade-left")
+      .col-lg-5.mb-lg-0(data-aos="fade-left")
         figure
           img(src="@/assets/curso/tema1/13.png" alt="").m-auto
 
@@ -164,7 +164,7 @@
     //- //wrapper: bg-fondo-1 + ## carrusel-tarjetas-icono
     .bg-full-width.bg-fondo-2.mb-5
       .px-4.px-md-5.py-4
-        SlyderF(columnas="col-lg-6 col-xl-4")
+        SlyderF(columnas="col-lg-6 col-xl-3")
           .tarjeta.bg-white.p-4.shadow(data-aos="zoom-in-up")
             .row.justify-content-center.mb-4
               .col-6
@@ -201,8 +201,15 @@
             h5.text-center Dependencia de insumos externos
             p.mb-0.text-center Aumento de costos de producción y pérdida de autonomía predial.
 
+        br
+        br
+        br
+        br
+        br
+        br
+
     //- ## bloquefoto-card (con indentación: //p + //list + //p)
-    .bg-color-7.rounded-3.overflow-hidden.mb-5(data-aos="fade-up")
+    .bg-color-7.rounded-3.overflow-hidden.mb-5(data-aos="fade-up" style="margin-top: -7rem")
       .row.align-items-center
         .col-xl-7.ps-5.pe-3.py-4
           .tarjeta.bg-white.p-4
@@ -326,6 +333,225 @@
                 img(src="@/assets/curso/tema1/svg/28.svg" alt="")
           h5.text-center Fragilidad ante enfermedades y variabilidad climática.
 
+    //- ### Dependencia tecnológica y concentración de insumos
+    .titulo-h3.mb-5(data-aos="fade-right")
+      .titulo-h3__fondo
+        img.titulo-h3__imagen(src="@/assets/bullets/title-h3.svg")
+        h3.titulo-h3__texto Dependencia tecnológica y concentración de insumos
+
+    //- ## compuesto-imagen 8:4 (bloquefoto + //p)
+    .row.align-items-center.mb-5
+      .col-lg-8(data-aos="fade-right")
+        .bg-color-1
+          .row.justify-content-center.align-items-center
+            .col-xl-auto
+              img(src="@/assets/curso/tema1/29.png" style="max-width: 420px" alt="")
+            .col-xl
+              p.mb-0 Uno de los efectos menos visibles pero más profundos del #[em Sistema Agroalimentario Dominante] (SAD) es la pérdida de autonomía tecnológica en los predios rurales, provocada por la concentración del control sobre los insumos básicos de producción.
+        p.mt-4 Con la intensificación del SAD, la producción agropecuaria depende cada vez más de insumos externos como semillas híbridas o transgénicas, fertilizantes sintéticos, maquinaria especializada y agroquímicos. Estos insumos son controlados por grandes corporaciones, que imponen sus condiciones desde fuera del territorio, afectando directamente la autonomía económica, técnica y organizativa de las familias campesinas.
+      .col-lg-4.mb-3.mb-lg-0(data-aos="fade-left")
+        figure
+          img(src="@/assets/curso/tema1/30.png" alt="").m-auto
+
+    //- ## tarjetas-conectadas
+    .tarjeta--container.row.mb-5
+      .col-md.tarjeta.color-primario.p-5(data-aos="fade-right")
+        .row.align-items-center.mb-4
+          .col-auto
+            figure
+              img(src="@/assets/curso/tema1/svg/31.svg" style="max-width: 90px" alt="").m-auto
+          .col
+            h4.text-white Consecuencias de la dependencia tecnológica
+        p.mb-0 Esta dependencia impone modelos estandarizados que no se ajustan a los suelos, climas, ritmos culturales ni posibilidades económicas. En numerosos predios, se adoptan paquetes tecnológicos completos construidos desde lógicas externas al territorio. Esto transforma al agricultor en un consumidor de tecnologías, debilita su capacidad para experimentar, adaptar y mejorar prácticas locales, y aumenta la fragilidad del sistema productivo ante variaciones de precios, escasez de insumos o interrupciones en los suministros.
+      .col-md.tarjeta.color-acento-botones.p-5(data-aos="fade-left")
+        .row.align-items-center.mb-4
+          .col-auto
+            figure
+              img(src="@/assets/curso/tema1/svg/32.svg" style="max-width: 90px" alt="").m-auto
+          .col
+            h4 Propuesta agroecológica
+        p.mb-0 Desde la perspectiva agroecológica, la transición requiere recuperar capacidades locales para producir insumos propios. Esto integra el uso de semillas criollas y nativas, la elaboración de abonos orgánicos y preparados naturales, herramientas apropiadas y de bajo costo, y la valoración de saberes campesinos y comunitarios. Estas estrategias fortalecen la autonomía funcional, reducen la dependencia del mercado y permiten ajustar el diseño predial a las condiciones reales del territorio.
+
+    //- #### Factores que aumentan la dependencia tecnológica
+    h4.mb-5.titulo-h4(data-aos="fade-right") Factores que aumentan la dependencia tecnológica en el ámbito rural
+
+    //- //p
+    p.mb-5 A continuación, se presentan los principales factores que fortalecen la dependencia tecnológica en los predios agropecuarios, limitando su capacidad de adaptación y sostenibilidad:
+
+    //- ## imagen-compuesto 4:8 (carrusel-tarjetas)
+    .row.align-items-center.mb-5
+      .col-lg-4.mb-3.mb-lg-0(data-aos="fade-right")
+        figure
+          img(src="@/assets/curso/tema1/33.png" alt="")
+      .col-lg-8(data-aos="fade-left")
+        SlyderF(columnas="col-lg-6 col-xl-6")
+          .tarjeta.bg-white.p-4.shadow(data-aos="zoom-in-up")
+            .row.justify-content-center.mb-4
+              .col-6
+                figure
+                  img(src="@/assets/curso/tema1/svg/34.svg" alt="")
+            h5.text-center Control corporativo de insumos
+            p.mb-0.text-center Monopolio sobre semillas, fertilizantes, maquinaria y agroquímicos.
+          .tarjeta.bg-white.p-4.shadow(data-aos="zoom-in-up")
+            .row.justify-content-center.mb-4
+              .col-6
+                figure
+                  img(src="@/assets/curso/tema1/svg/35.svg" alt="")
+            h5.text-center Aumento de costos y endeudamiento rural
+            p.mb-0.text-center Pérdida de autonomía económica y riesgo financiero para las familias.
+          .tarjeta.bg-white.p-4.shadow(data-aos="zoom-in-up")
+            .row.justify-content-center.mb-4
+              .col-6
+                figure
+                  img(src="@/assets/curso/tema1/svg/36.svg" alt="")
+            h5.text-center Inadecuación tecnológica al contexto local
+            p.mb-0.text-center Imposición de soluciones estandarizadas, poco eficaces en condiciones reales del predio.
+          .tarjeta.bg-white.p-4.shadow(data-aos="zoom-in-up")
+            .row.justify-content-center.mb-4
+              .col-6
+                figure
+                  img(src="@/assets/curso/tema1/svg/37.svg" alt="")
+            h5.text-center Pérdida de saberes productivos locales
+            p.mb-0.text-center Desvalorización del conocimiento campesino y de la capacidad de innovación territorial.
+
+    //- ### Desarticulación entre producción pecuaria y agrícola
+    .titulo-h3.mb-5(data-aos="fade-right")
+      .titulo-h3__fondo
+        img.titulo-h3__imagen(src="@/assets/bullets/title-h3.svg")
+        h3.titulo-h3__texto Desarticulación entre producción pecuaria y agrícola
+
+    //- //p
+    p.mb-5 Uno de los efectos más profundos del #[em Sistema Agroalimentario Dominante] (SAD) ha sido la ruptura de la relación funcional entre la producción agrícola y la producción pecuaria. Esta desarticulación ha provocado la fragmentación de los ciclos ecológicos dentro del predio, debilitando su capacidad de regeneración, eficiencia energética y funcionalidad sistémica. A continuación se comparan dos formas de organizar la producción y la propuesta agroecológica para integrar cultivos y animales.
+
+    //- ## slider (4 slides)
+    .bg-full-width.bg-fondo-slider.mb-5
+      .p-4.p-md-5
+        SlyderA(tipo="b").tarjeta.bg-white.p-4
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5.order-2
+              figure
+                img(src="@/assets/curso/tema1/38.png" alt="")
+            .col-lg-7.order-1.mb-3.mb-lg-0
+              h5 Lógica campesina: integración ecológica
+              p.mb-0 Históricamente, los sistemas campesinos mantenían una relación circular entre cultivos y animales. Los residuos de cosecha alimentaban al ganado, las excretas fertilizaban los suelos, se cerraban ciclos de nutrientes, se reducía la dependencia de insumos externos y se promovía la acumulación de biomasa y la fertilidad natural. Esta integración sostenía un agroecosistema funcional, resiliente y adaptado al territorio.
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5.order-2
+              figure
+                img(src="@/assets/curso/tema1/39.png" alt="")
+            .col-lg-7.order-1.mb-3.mb-lg-0
+              h5 Lógica del SAD: especialización y fragmentación
+              p.mb-0 La especialización impulsada por el sistema agroalimentario dominante separó agricultura y ganadería, generando predios exclusivamente agrícolas, donde los residuos vegetales se subutilizan o se queman, y predios exclusivamente pecuarios, donde los animales dependen de concentrados externos y las excretas dejan de aprovecharse. Esta fragmentación convierte subproductos valiosos en residuos contaminantes y dificulta el cierre de ciclos y la generación de fertilidad local.
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5.order-2
+              figure
+                img(src="@/assets/curso/tema1/40.png" alt="")
+            .col-lg-7.order-1.mb-3.mb-lg-0
+              h5 Consecuencias de la desarticulación
+              p.mb-0 La separación entre ambas actividades provoca ineficiencia ecológica, aumento de costos de producción, mayor dependencia de insumos externos y pérdida de resiliencia ante crisis climáticas, económicas o sanitarias.
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5.order-2
+              figure
+                img(src="@/assets/curso/tema1/41.png" alt="")
+            .col-lg-7.order-1.mb-3.mb-lg-0
+              h5 Propuesta agroecológica: restaurar la integración
+              p.mb-0 La transición agroecológica propone recuperar la integración entre cultivos y animales como base del diseño predial. Esto contempla planificar la producción de forrajes locales, usar residuos vegetales como alimento animal, transformar excretas en abonos orgánicos y establecer flujos internos de nutrientes, materia y energía. Con ello se fortalece la autonomía funcional, se mejora la eficiencia ecológica y el predio vuelve a operar como un sistema vivo, regenerativo y coherente con su contexto.
+
+    //- //wrapper: bg-fondo-3
+    .bg-full-width.bg-fondo-3.mb-5
+      .px-4.px-md-5.py-4
+        //- ##### Impactos de la desarticulación agrícola–pecuaria
+        h4.mb-5.titulo-h4(data-aos="fade-right") Impactos de la desarticulación agrícola–pecuaria
+
+        //- //p
+        p.mb-5 A continuación, se resumen los principales impactos que genera la separación entre la producción agrícola y pecuaria, evidenciando cómo esta fragmentación debilita la funcionalidad del agroecosistema y refuerza la dependencia del modelo externo promovido por el SAD.
+
+        //- ## tarjetas-icono 3 (col-lg-3, 4 cards)
+        .row.mb-5
+          .col-lg-3.mb-4(data-aos="zoom-in-up")
+            .tarjeta.bg-color-5.p-4.shadow.h-100
+              .row.justify-content-center.mb-4
+                .col-6
+                  figure
+                    img(src="@/assets/curso/tema1/svg/42.svg" alt="")
+              h5.text-center Separación de ciclos integrados
+              p.mb-0.text-center Se pierde la conexión entre alimentación animal, fertilización del suelo y reciclaje de nutrientes.
+          .col-lg-3.mb-4(data-aos="zoom-in-up")
+            .tarjeta.bg-color-5.p-4.shadow.h-100
+              .row.justify-content-center.mb-4
+                .col-6
+                  figure
+                    img(src="@/assets/curso/tema1/svg/43.svg" alt="")
+              h5.text-center Subutilización de subproductos animales
+              p.mb-0.text-center Las excretas no se transforman en abono ni energía; se convierten en residuos contaminantes.
+          .col-lg-3.mb-4(data-aos="zoom-in-up")
+            .tarjeta.bg-color-5.p-4.shadow.h-100
+              .row.justify-content-center.mb-4
+                .col-6
+                  figure
+                    img(src="@/assets/curso/tema1/svg/44.svg" alt="")
+              h5.text-center Dependencia de insumos externos
+              p.mb-0.text-center Mayor uso de concentrados y suplementos alimenticios, aumentando los costos.
+          .col-lg-3.mb-4(data-aos="zoom-in-up")
+            .tarjeta.bg-color-5.p-4.shadow.h-100
+              .row.justify-content-center.mb-4
+                .col-6
+                  figure
+                    img(src="@/assets/curso/tema1/svg/45.svg" alt="")
+              h5.text-center Reducción de la eficiencia ecológica
+              p.mb-0.text-center El predio opera de forma fragmentada, con baja capacidad de regeneración y adaptación.
+
+        //- ### 1.2.6. Pérdida de semillas y saberes
+        .titulo-h3.mb-5(data-aos="fade-right")
+          .titulo-h3__fondo
+            img.titulo-h3__imagen(src="@/assets/bullets/title-h3.svg")
+            h3.titulo-h3__texto  Pérdida de semillas y saberes
+
+        //- //p
+        p La transformación del sistema agroalimentario bajo lógicas de mercado global ha generado una profunda erosión de la diversidad genética y cultural en los territorios rurales. La imposición de semillas comerciales, híbridas y transgénicas ha desplazado progresivamente las variedades criollas y nativas, junto con los saberes que las acompañan: formas de selección, conservación, intercambio, siembra y uso alimentario. A continuación se presentan los aspectos centrales relacionados con la pérdida de semillas y saberes en los territorios rurales.
+
+    //- ## acordeon 4:8
+    .row.align-items-center.mb-5
+      .col-lg-4.mb-3.mb-lg-0(data-aos="fade-right")
+        figure
+          img(src="@/assets/curso/tema1/46.png" alt="").mb-4.mb-lg-0
+      .col-lg-8(data-aos="fade-left")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+          .div(titulo="Naturaleza de la pérdida")
+            p La pérdida no es solo biológica, sino también simbólica y funcional. Las semillas criollas representan una memoria viva del territorio: están adaptadas a sus suelos, climas, ritmos y culturas. Su desaparición implica la ruptura de ciclos de cientos y miles de años de coevolución entre comunidades y paisajes, debilitando la capacidad de adaptación local frente a crisis climáticas, plagas o cambios en la disponibilidad de recursos.
+          .div(titulo="Dependencia de semillas externas")
+            p La dependencia de semillas externas impone condiciones técnicas que limitan la autonomía campesina. Muchas semillas comerciales requieren paquetes tecnológicos específicos, no pueden reproducirse libremente y están sujetas a regulaciones que favorecen su concentración en manos de grandes empresas. Esto transforma al agricultor en consumidor y al predio en una plataforma de reproducción controlada.
+          .div(titulo="Pérdida de saberes tradicionales")
+            p Al desaparecer las semillas, también se desvanecen los saberes asociados: calendarios de siembra, rituales de intercambio, prácticas de selección, formas de almacenamiento, recetas tradicionales y vínculos comunitarios. Esta erosión cultural debilita la soberanía alimentaria, la identidad territorial y la capacidad de regeneración desde el conocimiento local.
+          .div(titulo="Propuestas de transición agroecológica")
+            p La transición agroecológica propone recuperar y fortalecer los sistemas locales de semillas mediante bancos comunitarios, redes de intercambio, reproducción en finca, selección participativa y documentación de saberes. Estas estrategias permiten restaurar la diversidad genética, revitalizar la cultura campesina y consolidar la autonomía predial como base de la resiliencia territorial.
+
+    //- ## compuesto-imagen 8:4 (bloquefoto)
+    .row.align-items-center.mb-5
+      .col-lg-8(data-aos="fade-right")
+        .bg-color-5
+          .row.justify-content-center.align-items-center
+            .col-xl-auto
+              img(src="@/assets/curso/tema1/svg/47.svg" style="max-width: 420px" alt="").m-auto.mt-xl-0.mt-4
+            .col-xl
+              .p-4
+                p Los impactos que genera la dominación del sistema agroalimentario son:
+                ul.lista-ul.mb-0
+                  li
+                    i.fas.fa-circle-check
+                    | Sustitución de semillas criollas por variedades comerciales.
+                  li
+                    i.fas.fa-circle-check
+                    | Erosión genética y cultural en los sistemas de cultivo.
+                  li
+                    i.fas.fa-circle-check
+                    | Reducción de la capacidad de adaptación local.
+                  li.mb-0
+                    i.fas.fa-circle-check
+                    | Desvinculación de las comunidades de sus prácticas ancestrales.
+      .col-lg-4.mb-3.mb-lg-0(data-aos="fade-left")
+        figure
+          img(src="@/assets/curso/tema1/48.png" alt="").m-auto
+
 </template>
 
 <script>
@@ -342,4 +568,8 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+.lista-ol--cuadro__vineta
+  span
+    color: $black
+</style>
