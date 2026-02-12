@@ -276,7 +276,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Acevedo, A., y Jiménez, N. (Comps.). (2019). Agroecología: Experiencias comunitarias para la agricultura familiar en Colombia. Corporación Universitaria Minuto de Dios – Uniminuto; Editorial Universidad del Rosario.',
+        'Acevedo, Á., y Jiménez, N. (Comps.). (2019). Agroecología: Experiencias comunitarias para la agricultura familiar en Colombia. Corporación Universitaria Minuto de Dios – Uniminuto; Editorial Universidad del Rosario.',
       link:
         'https://repository.uniminuto.edu/server/api/core/bitstreams/cbb44aa8-a288-4a83-85bf-8ecc2c4ec430/content',
     },
@@ -288,18 +288,84 @@ export default {
     },
     {
       referencia:
+        'Ángel Maya, A. (2013). El reto de la vida: Ecosistema y cultura (2.ª ed.). Ecofondo; Universidad Nacional de Colombia.',
+      link: '',
+    },
+    {
+      referencia:
         'Armbrecht, I. (2016). Agroecología y biodiversidad. Universidad del Valle.',
       link: '',
     },
     {
-      referencia: 'IICA. (2021). Gestión y manejo del agua en la agricultura.',
+      referencia:
+        'Climate Change Institute. (2024). Daily Surface Air Temperature – World (ERA5). Climate Reanalyzer, University of Maine.',
+      link: 'https://climatereanalyzer.org/clim/t2_daily/?dm_id=world',
+    },
+    {
+      referencia:
+        'Cruz Hincapié, A. (2013). Caracterización y manejo de residuos sólidos de siete predios en Salento, Quindío. Universidad del Tolima.',
+      link: '',
+    },
+    {
+      referencia:
+        'FAO. (2020). Global Forest Resources Assessment 2020: Key findings. Organización de las Naciones Unidas para la Alimentación y la Agricultura.',
+      link: '',
+    },
+    {
+      referencia:
+        'Giraldo, O. F., y Toro, I. F. (2020). Afectividad ambiental: Sensibilidad, empatía, estéticas del habitar. El Colegio de la Frontera Sur; Universidad Veracruzana.',
+      link:
+        'https://laoms.org/wp-content/uploads/2020/12/Afectividad-Ambiental-1.pdf',
+    },
+    {
+      referencia:
+        'IICA. (2021). Gestión y manejo del agua en la agricultura.',
       link:
         'https://repositorio.iica.int/server/api/core/bitstreams/846ee73e-15d2-4aa6-a932-7ff27be5342f/content',
     },
     {
       referencia:
-        'Rockström, J., et al. (2023). Safe and just Earth system boundaries. Nature, 619(7968), 102–111.',
+        'Ortega, D. (2011). Diagnóstico sobre la gestión y el uso del agua en el sector agropecuario de Nuevo León. Instituto del Agua del Estado de Nuevo León.',
+      link: '',
+    },
+    {
+      referencia:
+        'Páez Barón, E. M., Corredor Camargo, E. S., y Fonseca Carreño, J. A. (2019). Metodologías para la estimación de sostenibilidad agropecuaria. Universidad Nacional Abierta y a Distancia.',
+      link:
+        'https://libros.unad.edu.co/index.php/selloeditorial/catalog/view/98/95/422',
+    },
+    {
+      referencia:
+        'Pérez, E. (2022). Métodos para el diagnóstico ambiental de suelos. Universidad del Cauca.',
+      link: '',
+    },
+    {
+      referencia:
+        'Reyes-García, V. (2010). Conocimiento ecológico tradicional para la conservación: Dinámicas y conflictos. Papeles de relaciones ecosociales y cambio global, (107), 1–12. FUHEM Ecosocial.',
+      link:
+        'https://www.fuhem.es/media/cdv/file/biblioteca/PDF%20Papeles/107/Conocimiento_ecologico_tradicional.pdf',
+    },
+    {
+      referencia:
+        'Rockström, J., Gupta, J., Qin, D., Lade, S. J., Abrams, J. F., Andersen, L. S., Armstrong McKay, D. I., Bai, X., Bala, G., Bunn, S. E., Ciobanu, D., DeClerck, F., Ebi, K., Gifford, L., Gordon, C., Hasan, S., Kanie, N., Lenton, T. M., Loriani, S., Zhang, X. (2023). Safe and just Earth system boundaries. Nature, 619(7968), 102–111.',
       link: 'https://doi.org/10.1038/s41586-023-06083-8',
+    },
+    {
+      referencia:
+        'Sarandón, S. J. (Coord.). (2020). Biodiversidad, agroecología y agricultura sustentable. Editorial de la Universidad Nacional de La Plata.',
+      link:
+        'https://agroecologia.net/wp-content/uploads/2020/12/biodiversidad-agroecologia-santiago-sarandon.pdf',
+    },
+    {
+      referencia:
+        'Simón Ruiz, I., y Aravena Rodríguez, B. (2021). El ciclo hidrosocial: Una propuesta didáctica desde la historia, la geografía, las ciencias sociales y la educación para la ciudadanía. Centro de Comunicación de las Ciencias, Universidad Autónoma de Chile.',
+      link: '',
+    },
+    {
+      referencia:
+        'TecScience. (2023). ¿Cómo la salud de los océanos impacta en el blanqueamiento del coral?. Tecnológico de Monterrey.',
+      link:
+        'https://tecscience.tec.mx/es/humano-social/blanqueamiento-del-coral/',
     },
   ],
   creditos: [
