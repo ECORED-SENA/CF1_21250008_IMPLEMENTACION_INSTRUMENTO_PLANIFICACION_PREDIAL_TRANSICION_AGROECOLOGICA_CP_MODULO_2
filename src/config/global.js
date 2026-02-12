@@ -318,8 +318,7 @@ export default {
         'https://laoms.org/wp-content/uploads/2020/12/Afectividad-Ambiental-1.pdf',
     },
     {
-      referencia:
-        'IICA. (2021). Gestión y manejo del agua en la agricultura.',
+      referencia: 'IICA. (2021). Gestión y manejo del agua en la agricultura.',
       link:
         'https://repositorio.iica.int/server/api/core/bitstreams/846ee73e-15d2-4aa6-a932-7ff27be5342f/content',
     },
