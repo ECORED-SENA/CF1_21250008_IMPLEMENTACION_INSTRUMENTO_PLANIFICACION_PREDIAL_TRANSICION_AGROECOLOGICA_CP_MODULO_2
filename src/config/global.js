@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Fundamentos productivos para el diagnóstico predial',
     Description:
-      'Componente formativo orientado a fortalecer el diagnóstico predial productivo y la transición agroecológica mediante criterios de manejo del suelo, agrobiodiversidad, autonomía funcional y elaboración de mapas productivos.',
+      'Este componente aborda los fundamentos ecológicos de la transición agroecológica y las estrategias prediales para enfrentar la crisis ambiental desde una perspectiva integral. Se analizan los impactos del modelo agroindustrial sobre los ecosistemas, la ruptura con los saberes locales y los límites planetarios que condicionan la sostenibilidad territorial. A partir de este diagnóstico, se promueve el diseño y aplicación de soluciones agroecológicas para la conservación de la biodiversidad, el cuidado del agua y el manejo de residuos, integrando prácticas adaptadas al contexto, monitoreo comunitario y recuperación de relaciones equilibradas entre producción y ambiente.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [],

@@ -23,7 +23,7 @@
               .row.justify-content-center.align-items-center
                 .col-xl(data-aos="fade-left")
                   .px-4
-                    p.my-0 En la segunda de las cuatro estaciones nos enfocamos en la producción como tal. La Estación Productiva del IPPTA traza caminos para transformar el predio en un espacio de diversidad, regeneración y autonomía. Esta estación profundiza en el diseño técnico-funcional del agroecosistema, reconociendo que producir con criterios agroecológicos implica comprender las causas estructurales de la crisis del sistema agroalimentario para proyectar alternativas desde el territorio.
+                    p.my-0 En la segunda de las cuatro estaciones nos enfocamos en la producción como tal. La <b>Estación Productiva del IPPTA</b> traza caminos para transformar el predio en un espacio de diversidad, regeneración y autonomía. Esta estación profundiza en el diseño técnico-funcional del agroecosistema, reconociendo que producir con criterios agroecológicos implica comprender las causas estructurales de la crisis del sistema agroalimentario para proyectar alternativas desde el territorio.
                 .col-xl-auto(data-aos="fade-right")
                   img(src="@/assets/curso/introduccion/intro_foto_02.png", style="max-width: 435px", alt="").m-auto.mt-xl-0.mt-4
 
@@ -35,7 +35,7 @@
               .col-lg-auto.mb-3.mb-lg-0(data-aos="fade-right")
                 img(src="@/assets/curso/introduccion/intro_icono_01.svg" style="max-width: 90px" alt="Icono Estación Socioeconómica").mx-auto
               .col-lg(data-aos="fade-left")
-                p.mb-0 La siguiente parada será la Estación Socioeconómica, donde exploraremos las dimensiones sociales, culturales y económicas que configuran los sistemas de vida rurales. Aquí se analizarán las dinámicas comunitarias, los circuitos económicos locales y las estrategias de fortalecimiento territorial.
+                p.mb-0 La siguiente parada será la <b>Estación Socioeconómica</b>, donde exploraremos las dimensiones sociales, culturales y económicas que configuran los sistemas de vida rurales. Aquí se analizarán las dinámicas comunitarias, los circuitos económicos locales y las estrategias de fortalecimiento territorial.
 
         //- Sección 4: icono+texto izquierda + foto derecha
         .bg-color-3
