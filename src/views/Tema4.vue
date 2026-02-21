@@ -13,10 +13,10 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema4/1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La agrobiodiversidad representa la variedad y variabilidad de animales, plantas y microorganismos que forman parte de los agroecosistemas, incluyendo cultivos, razas animales, especies silvestres asociadas, microorganismos del suelo, polinizadores y controladores biológicos. Esta definición, adoptada por la Convención sobre la Diversidad Biológica de las Naciones Unidas, reconoce que los sistemas agrícolas están sostenidos por una red viva de interacciones ecológicas, culturales y productivas.
+        p.mb-0 #[b La agrobiodiversidad] representa la variedad y variabilidad de animales, plantas y microorganismos que forman parte de los agroecosistemas, incluyendo cultivos, razas animales, especies silvestres asociadas, microorganismos del suelo, polinizadores y controladores biológicos. Esta definición, adoptada por la Convención sobre la Diversidad Biológica de las Naciones Unidas, reconoce que los sistemas agrícolas están sostenidos por una red viva de interacciones ecológicas, culturales y productivas.
 
     //- //p (suelto)
-    p.mb-5 Desde el enfoque agroecológico, la agrobiodiversidad no es solo un componente del paisaje, sino una estrategia clave para fortalecer la resiliencia del predio, mejorar la eficiencia ecológica y consolidar la autonomía territorial. Su manejo implica conservar, diversificar y activar relaciones funcionales entre especies, saberes y procesos.
+    p.mb-5 Desde el enfoque agroecológico, la agrobiodiversidad no es solo un componente del paisaje, sino una #[b estrategia clave para fortalecer la resiliencia del predio], mejorar la eficiencia ecológica y consolidar la autonomía territorial. Su manejo implica conservar, diversificar y activar relaciones funcionales entre especies, saberes y procesos.
 
     //- ## Separador
     Separador
@@ -357,7 +357,7 @@
               p.mb-0 Su presencia, comportamiento o variación reflejan el estado ecológico, climático o cultural del agroecosistema. Ejemplos: abejas, ranas, aves silvestres, hormigas; comportamientos animales que anuncian lluvias, heladas o sequías.
 
     //- ## bgcolor-icono-texto
-    .bg-color-2.p-4.rounded-3.mb-5(data-aos="fade-up")
+    .bg-color-2.p-4.rounded-3.mb-5(data-aos="fade-in")
       .row.align-items-center
         .col-lg-auto
           img(src="@/assets/curso/tema4/svg/15.svg" style="max-width: 90px" alt="").m-auto.mb-4.mb-lg-0

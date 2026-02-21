@@ -115,7 +115,7 @@
         figure
           img(src="@/assets/curso/tema1/11.png" alt="")
       .col-lg-8(data-aos="fade-left")
-        p.mb-4 El uso intensivo de fertilizantes sintéticos es una de las expresiones más claras del quiebre entre la agricultura industrial y los procesos ecológicos que sostienen la fertilidad natural del suelo. En el marco del #[em Sistema Agroalimentario Dominante (SAD)], estos insumos se promovieron como estrategia para mantener altos niveles de productividad, sin considerar sus efectos sobre los ciclos biogeoquímicos y la vida del suelo.
+        p.mb-4 El uso intensivo de fertilizantes sintéticos es una de las expresiones más claras del quiebre entre la agricultura industrial y los procesos ecológicos que sostienen la fertilidad natural del suelo. En el marco del  <b>Sistema Agroalimentario Dominante (SAD)</b>, estos insumos se promovieron como estrategia para mantener altos niveles de productividad, sin considerar sus efectos sobre los ciclos biogeoquímicos y la vida del suelo.
         .bg-color-5.p-4.rounded-3
           p Elaborados mediante procesos químicos de alta energía, los fertilizantes sintéticos sustituyen los mecanismos naturales de reciclaje de nutrientes, lo que altera profundamente el equilibrio del agroecosistema. Desde una perspectiva ecológica, introducen concentraciones excesivas de nitrógeno y fósforo, superando la capacidad de absorción de las plantas y del suelo. Esto genera:
           ol.lista-ol--cuadro
@@ -347,7 +347,7 @@
             .col-xl-auto
               img(src="@/assets/curso/tema1/29.png" style="max-width: 420px" alt="")
             .col-xl
-              p.mb-0 Uno de los efectos menos visibles pero más profundos del #[em Sistema Agroalimentario Dominante] (SAD) es la pérdida de autonomía tecnológica en los predios rurales, provocada por la concentración del control sobre los insumos básicos de producción.
+              p.mb-0 Uno de los efectos menos visibles pero más profundos del Sistema Agroalimentario Dominante (SAD) es la pérdida de autonomía tecnológica en los predios rurales, provocada por la concentración del control sobre los insumos básicos de producción.
         p.mt-4 Con la intensificación del SAD, la producción agropecuaria depende cada vez más de insumos externos como semillas híbridas o transgénicas, fertilizantes sintéticos, maquinaria especializada y agroquímicos. Estos insumos son controlados por grandes corporaciones, que imponen sus condiciones desde fuera del territorio, afectando directamente la autonomía económica, técnica y organizativa de las familias campesinas.
       .col-lg-4.mb-3.mb-lg-0(data-aos="fade-left")
         figure
@@ -459,8 +459,8 @@
     //- //wrapper: bg-fondo-3
     .bg-full-width.bg-fondo-3.mb-5
       .px-4.px-md-5.py-4
-        //- ##### Impactos de la desarticulación agrícola–pecuaria
-        h4.mb-5.titulo-h4(data-aos="fade-right") Impactos de la desarticulación agrícola–pecuaria
+        //- ##### Impactos de la desarticulación agrícola-pecuaria
+        h4.mb-5.titulo-h4(data-aos="fade-right") Impactos de la desarticulación agrícola-pecuaria
 
         //- //p
         p.mb-5 A continuación, se resumen los principales impactos que genera la separación entre la producción agrícola y pecuaria, evidenciando cómo esta fragmentación debilita la funcionalidad del agroecosistema y refuerza la dependencia del modelo externo promovido por el SAD.
@@ -482,7 +482,7 @@
                   figure
                     img(src="@/assets/curso/tema1/svg/43.svg" alt="")
               h5.text-center Subutilización de subproductos animales
-              p.mb-0.text-center Las excretas no se transforman en abono ni energía; se convierten en residuos contaminantes.
+              p.mb-0.text-center Las excretas no se transforman en abono ni en  energía; se convierten en residuos contaminantes.
           .col-lg-3.mb-4(data-aos="zoom-in-up")
             .tarjeta.bg-color-5.p-4.shadow.h-100
               .row.justify-content-center.mb-4

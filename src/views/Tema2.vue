@@ -69,7 +69,7 @@
             figure
               img(src="@/assets/curso/tema2/3.png" alt="").mb-4.mb-lg-0
           .col-lg-9(data-aos="fade-left")
-            p.mb-4 El diagnóstico productivo es una herramienta fundamental para alimentar el #[em Instrumento de Planificación Predial para la Transición Agroecológica] (IPPTA), ya que permite que cada acción del plan esté respaldada por una lectura funcional y contextualizada del predio. A través de #[b indicadores participativos], #[b fichas técnicas], #[b mapas productivos] y #[b recorridos interpretativos], se construye una visión integrada del agroecosistema, orientada a la regeneración ecológica, la equidad social y la autonomía territorial.
+            p.mb-4 El diagnóstico productivo es una herramienta fundamental para alimentar el Instrumento de Planificación Predial para la Transición Agroecológica (IPPTA), ya que permite que cada acción del plan esté respaldada por una lectura funcional y contextualizada del predio. A través de #[b indicadores participativos], #[b fichas técnicas], #[b mapas productivos] y #[b recorridos interpretativos], se construye una visión integrada del agroecosistema, orientada a la regeneración ecológica, la equidad social y la autonomía territorial.
             .bg-color-3.overflow-hidden
               .row.align-items-center
                 .col-xl.order-lg-1

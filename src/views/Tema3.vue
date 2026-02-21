@@ -15,7 +15,7 @@
       .col-lg-8(data-aos="fade-left")
         .row.align-items-center.mb-4
           .col-lg-7
-            p.mb-0 En agroecología, el suelo no se considera un simple soporte físico para los cultivos, sino un #[b organismo vivo, dinámico y complejo] que regula los ciclos ecológicos, sostiene la biodiversidad y posibilita la producción de alimentos. Esta visión lo concibe como un sistema que #[b respira, se alimenta, se regenera y responde activamente] a las #[b prácticas humanas].
+            p.mb-0 En agroecología, el suelo no se considera un simple soporte físico para los cultivos, sino un #[b organismo vivo, dinámico y complejo] que regula los ciclos ecológicos, sostiene la biodiversidad y posibilita la producción de alimentos. Esta visión lo concibe como un sistema que #[b respira, se alimenta, se regenera y responde activamente a las prácticas humanas].
           .col-lg-5
             figure
               img(src="@/assets/curso/tema3/2.png" alt="")
@@ -150,7 +150,7 @@
                 li
                   i.fas.fa-circle-check
                   | Coloración uniforme del follaje
-              p.mb-0 Esta información permite identificar fertilidad equilibrada, señales de exceso o carencia de nutrientes, y adecuada disponibilidad de nutrientes junto con salud radicular.
+              p.mb-0 Esta información permite identificar fertilidad equilibrada, señales de exceso o carencia de nutrientes y adecuada disponibilidad de nutrientes junto con salud radicular.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
