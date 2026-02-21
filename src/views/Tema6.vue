@@ -28,7 +28,7 @@
           .col-lg-auto
             img(src="@/assets/curso/tema6/svg/1.svg" style="max-width: 90px" alt="").m-auto.mb-4.mb-lg-0
           .col-lg
-            p.mb-0 El enfoque espacial también incluye la identificación de #[b zonas con alta carga orgánica o actividad productiva] (zonas de concentración) y áreas dedicadas a la absorción, filtración o regeneración ecológica (zonas de descarga). Para complementar esta visión, las #[b fichas de diagnóstico productivo] registran información clave sobre prácticas, recursos, rendimientos, problemas y potencialidades en cada unidad del predio. Los elementos clave en la elaboración de mapas productivos son:
+            p.mb-0 El enfoque espacial también incluye la #[b identificación de  zonas con alta carga orgánica o actividad productiva] (zonas de concentración) y áreas dedicadas a la #[b absorción, filtración o regeneración ecológica] (zonas de descarga). Para complementar esta visión, las #[b fichas de diagnóstico productivo] registran información clave sobre prácticas, recursos, rendimientos, problemas y potencialidades en cada unidad del predio. Los elementos clave en la elaboración de mapas productivos son:
 
     //- ## tarjetas-foto col-lg-4 (3 tarjetas estáticas)
     .row.mb-5
@@ -50,7 +50,7 @@
           .crd_foto__body
             p.crd_foto__title Zonas de descarga
             p.crd_foto__text Espacios que reciben, filtran o regeneran materia y energía: humedales, franjas de vegetación, barreras vivas, coberturas orgánicas.
-
+      p.mb-0 Fichas de diagnóstico productivo: registros por unidad del predio con información sobre prácticas agrícolas, recursos disponibles, problemas y oportunidades de mejora. 
     //- ## Separador
     Separador
 
@@ -110,7 +110,7 @@
         figure
           img(src="@/assets/curso/tema6/7.png" alt="")
       .col-lg-9(data-aos="fade-left")
-        p.mb-4 Las zonas de concentración son áreas del predio donde se acumula actividad productiva, tránsito, residuos o presión sobre el suelo. En estos espacios se concentran nutrientes, energía, herramientas y personas, lo que puede generar eficiencia operativa, pero también riesgos de saturación, compactación o contaminación si no se gestionan adecuadamente. Ejemplos típicos de zonas de concentración incluyen:
+        p.mb-4 Las #[b zonas de concentración] son áreas del predio donde se #[b acumula actividad productiva, tránsito, residuos o presión sobre el suelo]. En estos espacios se concentran nutrientes, energía, herramientas y personas, lo que puede generar #[b eficiencia operativa], pero también #[b riesgos de saturación, compactación o contaminación] si no se gestionan adecuadamente. Ejemplos típicos de zonas de concentración incluyen:
         .bg-color-1.overflow-hidden
           .row.align-items-center
             .col-xl.order-lg-1
@@ -118,19 +118,19 @@
                 ul.lista-ul--color.mb-0
                   li.mb-0.d-flex
                     i.fas.fa-circle-check(style="color: #638A4B")
-                    p.mb-0 Cobertura vegetal permanente.
+                    p.mb-0 Corrales y galpones.
                   li.mb-0.d-flex
                     i.fas.fa-circle-check(style="color: #638A4B")
-                    p.mb-0 Rotación de cultivos.
+                    p.mb-0 Patios de trabajo.
                   li.mb-0.d-flex
                     i.fas.fa-circle-check(style="color: #638A4B")
-                    p.mb-0 Incorporación de materia orgánica.
+                    p.mb-0 Zonas de lavado y faenado.
                   li.mb-0.d-flex
                     i.fas.fa-circle-check(style="color: #638A4B")
-                    p.mb-0 Uso de abonos naturales.
+                    p.mb-0 Áreas de almacenamiento o procesamiento.
                   li.mb-0.d-flex
                     i.fas.fa-circle-check(style="color: #638A4B")
-                    p.mb-0 Reducción de la compactación del suelo.
+                    p.mb-0 Puntos de carga y descarga.
             .col-xl-auto.order-lg-2
               img(src="@/assets/curso/tema6/8.png" style="max-width: 420px" alt="").m-auto.mt-xl-0.mt-4
 

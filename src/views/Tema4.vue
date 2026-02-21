@@ -26,7 +26,7 @@
       h2 4.1. Dimensiones de la agrobiodiversidad
 
     //- //p
-    p.mb-5 Para comprender su complejidad y orientar su planificación, analizar la agrobiodiversidad a partir de seis dimensiones complementarias:
+    p.mb-5 Para comprender su complejidad y orientar su planificación, analizar la agrobiodiversidad a partir de #[b seis dimensiones complementarias]:
 
     //- ## tarjetas-foto-hover col-lg-4
     .row.mb-5
@@ -87,7 +87,7 @@
       h2 4.2. Tipos de biodiversidad en el agroecosistema
 
     //- //p
-    p.mb-5 Además de sus dimensiones, la agrobiodiversidad puede analizarse en función de su rol dentro del sistema productivo y ecológico. Esta clasificación permite una lectura integral del agroecosistema, reconociendo no solo lo que se cultiva o cría, sino también lo que acompaña, indica o puede ser activado como recurso territorial.
+    p.mb-5 Además de sus dimensiones, la agrobiodiversidad puede analizarse en función de su #[b rol dentro del sistema productivo y ecológico]. Esta clasificación permite una lectura integral del agroecosistema, reconociendo no solo lo que se cultiva o cría, sino también lo que #[b acompaña, indica o puede ser activado como recurso territorial].
 
     //- ## imagen-compuesto 4:8 (pestanas-verticales)
     .row.align-items-center.mb-5
@@ -108,7 +108,7 @@
             p.mb-0 Especies que afectan negativamente el agroecosistema: plagas, patógenos o arvenses invasoras. Indican desequilibrios y pueden ser reguladas mediante biodiversidad funcional (rotaciones, cobertura, control biológico).
 
     //- //p (suelto)
-    p.mb-5 Esta mirada amplia y dinámica de la agrobiodiversidad permite diseñar sistemas más resilientes, eficientes y culturalmente significativos, en los que se reconoce el valor de lo cultivado, lo espontáneo, lo simbólico y lo relacional como parte de un mismo tejido agroecológico.
+    p.mb-5 Esta mirada amplia y dinámica de la agrobiodiversidad permite diseñar sistemas más #[b resilientes, eficientes y culturalmente significativos ], en los que se reconoce el valor de #[b lo cultivado, lo espontáneo, lo simbólico y lo relacional ] como parte de un mismo tejido agroecológico.
 
     //- ## Separador
     Separador
@@ -178,7 +178,7 @@
             p.mb-0.text-center Cada semilla guarda historias, rituales, calendarios agrícolas y saberes comunitarios transmitidos entre generaciones.
 
     //- //p (suelto)
-    p.mb-5 El rescate, la conservación y el intercambio de estas semillas son acciones clave para defender la diversidad, fortalecer la autonomía rural y proteger los sistemas de vida locales frente a los modelos uniformes e industriales de producción.
+    p.mb-5 El rescate, la conservación y el intercambio de estas semillas son acciones clave para #[b defender la diversidad, fortalecer la autonomía rural y proteger los sistemas de vida locales ] frente a los modelos uniformes e industriales de producción.
 
     //- ## Separador
     Separador
@@ -188,7 +188,7 @@
       h2 4.4. Diversidad vegetal
 
     //- //p
-    p.mb-5 La diversidad vegetal en el predio agroecológico es la base de múltiples funciones ecológicas, productivas y culturales que fortalecen la resiliencia del sistema. Cada especie aporta estructura, nutrientes, relaciones simbióticas y respuestas adaptativas que enriquecen el agroecosistema. Esta diversidad se expresa en el espacio, el tiempo y la interacción entre plantas, suelos, animales y saberes. Diseñar con diversidad vegetal permite:
+    p.mb-5 La #[b diversidad vegetal] en el predio agroecológico es la base de #[b múltiples funciones ecológicas, productivas y culturales] que fortalecen la resiliencia del sistema. Cada especie aporta #[b estructura, nutrientes, relaciones simbióticas] y respuestas adaptativas que enriquecen el agroecosistema. Esta diversidad se expresa en el #[b espacio, el tiempo y la interacción] entre plantas, suelos, animales y saberes. Diseñar con diversidad vegetal permite:
 
     //- ## imagen-compuesto 4:8 (6 bgcolor-icono-texto en grid 6)
     .row.align-items-center.mb-5
@@ -281,7 +281,7 @@
           img(src="@/assets/curso/tema4/12.png" alt="")
 
     //- //p (suelto)
-    p.mb-5 Esta clasificación funcional permite integrar la diversidad vegetal al diseño agroecológico, activando su potencial para nutrir, proteger, regular y regenerar el sistema desde una lógica sistémica y territorial.
+    p.mb-5 Esta clasificación funcional permite integrar la diversidad vegetal al diseño agroecológico, activando su potencial para #[b nutrir, proteger, regular y regenerar] el sistema desde una lógica sistémica y territorial.
 
     //- ## Separador
     Separador
@@ -319,42 +319,48 @@
                 img(src="@/assets/curso/tema4/21.png" alt="")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Productores de proteína para consumo humano
-              p.mb-0 Aportan alimentos esenciales como carne, leche, huevos y miel. Ejemplos: gallinas, cerdos, bovinos, cabras, abejas, peces.
+              p.mb-0 Aportan alimentos esenciales como carne, leche, huevos y miel. 
+              p.mb-0 #[b Ejemplos]: gallinas, cerdos, bovinos, cabras, abejas, peces.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
                 img(src="@/assets/curso/tema4/22.png" alt="")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Recicladores de residuos orgánicos
-              p.mb-0 Transforman restos vegetales y desechos en abono, cerrando ciclos y reduciendo la carga orgánica. Ejemplos: cerdos, gallinas, patos, lombrices, cuyes, conejos, mosca soldado.
+              p.mb-0 Transforman restos vegetales y desechos en abono, cerrando ciclos y reduciendo la carga orgánica. 
+              p.mb-0 #[b Ejemplos]: cerdos, gallinas, patos, lombrices, cuyes, conejos, mosca soldado.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
                 img(src="@/assets/curso/tema4/23.png" alt="")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Mejoradores del suelo
-              p.mb-0 Airean, fertilizan y activan la vida del suelo, mejorando su estructura y dinámica biológica. Ejemplos: lombrices, escarabajos, microorganismos asociados a animales.
+              p.mb-0 Airean, fertilizan y activan la vida del suelo, mejorando su estructura y dinámica biológica. 
+              p.mb-0 #[b Ejemplos]: lombrices, escarabajos, microorganismos asociados a animales.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
                 img(src="@/assets/curso/tema4/24.png" alt="")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Reguladores biológicos
-              p.mb-0 Controlan poblaciones de plagas, arvenses o vectores por medio de la depredación o competencia. Ejemplos: patos, aves insectívoras, sapos, murciélagos, arañas, avispas, gallinas de campo, mariquitas.
+              p.mb-0 Controlan poblaciones de plagas, arvenses o vectores por medio de la depredación o competencia. 
+              p.mb-0 #[b Ejemplos]: patos, aves insectívoras, sapos, murciélagos, arañas, avispas, gallinas de campo, mariquitas.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
                 img(src="@/assets/curso/tema4/25.png" alt="")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Animales de trabajo y compañía
-              p.mb-0 Apoyan labores productivas, aportan seguridad y fortalecen vínculos afectivos y culturales. Ejemplos: caballos, burros, perros, bueyes.
+              p.mb-0 Apoyan labores productivas, aportan seguridad y fortalecen vínculos afectivos y culturales. 
+              p.mb-0 #[b Ejemplos]: caballos, burros, perros, bueyes.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
                 img(src="@/assets/curso/tema4/26.png" alt="")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Bioindicadores
-              p.mb-0 Su presencia, comportamiento o variación reflejan el estado ecológico, climático o cultural del agroecosistema. Ejemplos: abejas, ranas, aves silvestres, hormigas; comportamientos animales que anuncian lluvias, heladas o sequías.
+              p.mb-0 Su presencia, comportamiento o variación reflejan el estado ecológico, climático o cultural del agroecosistema. 
+              p.mb-0 #[b Ejemplos]: abejas, ranas, aves silvestres, hormigas; comportamientos animales que anuncian lluvias, heladas o sequías.
 
     //- ## bgcolor-icono-texto
     .bg-color-2.p-4.rounded-3.mb-5(data-aos="fade-in")

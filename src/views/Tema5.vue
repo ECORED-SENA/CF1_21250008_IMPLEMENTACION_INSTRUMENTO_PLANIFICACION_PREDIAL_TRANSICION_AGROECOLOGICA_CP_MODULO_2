@@ -92,7 +92,7 @@
             p.mb-0.text-center Disminución del uso de fertilizantes químicos y alimentos concentrados, aumentando la autonomía predial.
 
     //- //p
-    p.mb-5 Este modelo de integración favorece la creación de agroecosistemas productivos, regenerativos y soberanos, alineados con los principios de la agroecología y las condiciones reales del territorio.
+    p.mb-5 Este modelo de integración favorece la creación de agroecosistemas #[b productivos, regenerativos y soberanos], alineados con los principios de la agroecología y las condiciones reales del territorio.
 
     //- ## Separador
     Separador
@@ -130,7 +130,7 @@
             ul.lista-ul--color.mb-0
               li.mb-0.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 Alimentos pueden provenir del mercado o de importaciones.
+                p.mb-0 Los alimentos pueden provenir del mercado o de importaciones.
               li.mb-0.d-flex
                 i.fas.fa-circle-check
                 p.mb-0 No asegura coherencia cultural ni autonomía sobre el origen.
@@ -168,7 +168,7 @@
                 p.mb-0 Menor dependencia del mercado.
 
     //- //p
-    p.mb-5 Cada alimento producido en la finca representa un ahorro directo y tangible: es un alimento menos que debe comprarse, una necesidad cubierta con recursos propios. Esta lógica convierte la producción agroecológica en una forma de economía territorial, donde el predio funciona como fuente de nutrición, salud y soberanía.
+    p.mb-5 Cada alimento producido en la finca representa un #[b ahorro directo y tangible]: es un alimento menos que debe comprarse, una necesidad cubierta con recursos propios. Esta lógica convierte la #[b producción agroecológica en una forma de economía territorial], donde el predio funciona como #[b fuente de nutrición, salud y soberanía].
 
     //- ## bgcolor-icono-card col:10 (#D9E8F9)
     .row.justify-content-center.mb-5
@@ -179,7 +179,7 @@
               img(src="@/assets/curso/tema5/svg/7.svg" style="max-width: 120px" alt="").m-auto.mb-4.mb-lg-0
             .col-lg
               .tarjeta.bg-white.p-4
-                p.mb-0 Cultivar hortalizas, criar animales, transformar excedentes o recolectar frutos nativos equivale a "imprimir dinero en casa", ya que reduce gastos, fortalece la autonomía familiar y convierte el trabajo campesino en alimento, sin intermediarios ni dependencia del mercado.
+                p.mb-0 Cultivar hortalizas, criar animales, transformar excedentes o recolectar frutos nativos #[b equivale a "imprimir dinero en casa"], ya que reduce gastos, fortalece la autonomía familiar y convierte el trabajo campesino en alimento, #[b sin intermediarios ni dependencia del mercado].
 
 </template>
 
