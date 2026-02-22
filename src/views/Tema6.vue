@@ -152,7 +152,7 @@
     //- ## compuesto-imagen 8:4 (//p + bloquefoto-card #BCCDB2 + //p)
     .row.align-items-center.mb-5
       .col-lg-9(data-aos="fade-right")
-        p.mb-4 Las #[b zonas de descarga] son áreas del predio donde se canalizan, filtran o redistribuyen los excedentes del sistema productivo, como residuos orgánicos, aguas de lavado, estiércoles, restos de cosecha o materiales en descomposición. Estas zonas cumplen funciones clave para el manejo interno de nutrientes, #[b humedad y energía], ayudando a #[b cerrar ciclos ecológicos] y a evitar la saturación en las zonas de concentración.
+        p.mb-4 Las #[b zonas de descarga] son áreas del predio donde se #[b canalizan, filtran o redistribuyen los excedentes del sistema productivo], como residuos orgánicos, aguas de lavado, estiércoles, restos de cosecha o materiales en descomposición. Estas zonas cumplen funciones clave para el manejo interno de #[b nutrientes, humedad y energía], ayudando a #[b cerrar ciclos ecológicos] y a #[b evitar la saturación en las zonas de concentración].
         .bg-color-1.overflow-hidden.rounded-3.mb-4
           .row.align-items-center
             .col-xl-7
@@ -190,14 +190,14 @@
       h2 6.4. Fichas de diagnóstico: síntesis territorial para la toma de decisiones
 
     //- //p
-    p.mb-5 Las fichas de diagnóstico productivo son herramientas complementarias al mapa del predio, diseñadas para registrar, analizar y mejorar el funcionamiento de cada unidad del agroecosistema. Estas fichas permiten sistematizar información clave sobre cultivos, animales, infraestructura, prácticas, rendimientos, problemas y potencialidades, facilitando la toma de decisiones y el diseño funcional del sistema productivo.
+    p.mb-5 Las #[b fichas de diagnóstico productivo] son herramientas complementarias al mapa del predio, diseñadas para #[b registrar, analizar y mejorar el funcionamiento de cada unidad] del agroecosistema. Estas fichas permiten #[b sistematizar información] clave sobre cultivos, animales, infraestructura, prácticas, rendimientos, problemas y potencialidades, facilitando la toma de decisiones y el diseño funcional del sistema productivo.
 
     //- ## bloquefoto img:right #DDE6D8
     .bg-color-11.overflow-hidden.rounded-3.mb-5(data-aos="zoom-in")
       .row.align-items-center
         .col-xl.order-lg-1
           .p-4
-            p Su elaboración puede ser colectiva, integrando recorridos, observación directa y saberes locales, lo cual enriquece la mirada técnica con la experiencia de las familias campesinas. Estas fichas profundizan en los aspectos técnicos, ecológicos y culturales de cada zona, registrando datos sobre uso del suelo, manejo, insumos, ciclos, flujos y relaciones funcionales. De esta forma, permiten identificar:
+            p Su elaboración puede ser #[b colectiva], integrando #[b recorridos, observación directa y saberes locales], lo cual enriquece la mirada técnica con la experiencia de las familias campesinas. Estas fichas profundizan en los #[b aspectos técnicos, ecológicos y culturales] de cada zona, registrando datos sobre #[b uso del suelo, manejo, insumos, ciclos, flujos y relaciones funcionales]. De esta forma, permiten identificar:
             ul.lista-ul--color.mb-0
               li.mb-0.d-flex
                 i.fas.fa-circle-check
@@ -317,7 +317,7 @@
         .col-lg-auto
           img(src="@/assets/curso/tema6/svg/4.svg" style="max-width: 90px" alt="").m-auto.mb-4.mb-lg-0
         .col-lg
-          p.mb-0 Estas fichas permiten una lectura fina del predio, facilitando procesos de planificación agroecológica territorial, monitoreo de la transición y diseño de estrategias adaptadas a la realidad concreta de cada familia o comunidad.
+          p.mb-0 Estas fichas permiten una lectura fina del predio, facilitando procesos de #[b planificación agroecológica territorial], monitoreo de la transición y diseño de estrategias adaptadas a la realidad concreta de cada familia o comunidad.
 
 </template>
 

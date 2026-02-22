@@ -372,7 +372,7 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Olga Constanza Bermudez Jaimes',
+          nombre: 'Olga Constanza Bermúdez Jaimes',
           cargo: 'Responsable de Línea de Producción Huila',
           centro: 'Dirección General',
         },
@@ -382,7 +382,7 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Jorge Eduardo Alava Arevalo',
+          nombre: 'Jorge Eduardo Alava Arévalo',
           cargo: 'Instructor Técnico',
           centro:
             'Centro Internacional de Producción Limpia Lope - Regional Nariño',
@@ -390,25 +390,25 @@ export default {
         {
           nombre: 'Gonzalo Cardona',
           cargo: 'Coordinador Colombia',
-          centro: 'Agronomos y Veterinarios sin Fronteras (AVSF)',
+          centro: 'Agrónomos y Veterinarios sin Fronteras (AVSF)',
         },
         {
           nombre: 'Pablo Aguirre',
           cargo: 'Coordinador',
           centro:
-            'Proyecto Apoyo a la Reforma Rural Integral en Colombia (ARRIC) Agronomos y Veterinarios sin Fronteras (AVSF)',
+            'Proyecto Apoyo a la Reforma Rural Integral en Colombia (ARRIC) Agrónomos y Veterinarios sin Fronteras (AVSF)',
         },
         {
           nombre: 'Jenny Gómez',
           cargo: 'Asistente Técnica',
           centro:
-            'Proyecto Apoyo a la Reforma Rural Integral en Colombia (ARRIC) Agronomos y Veterinarios sin Fronteras (AVSF)',
+            'Proyecto Apoyo a la Reforma Rural Integral en Colombia (ARRIC) Agrónomos y Veterinarios sin Fronteras (AVSF)',
         },
         {
-          nombre: 'Roger Garcia',
+          nombre: 'Roger García',
           cargo: 'Consultor',
           centro:
-            'Proyecto Apoyo a la Reforma Rural Integral en Colombia (ARRIC) Agronomos y Veterinarios sin Fronteras (AVSF)',
+            'Proyecto Apoyo a la Reforma Rural Integral en Colombia (ARRIC) Agrónomos y Veterinarios sin Fronteras (AVSF)',
         },
         {
           nombre: 'Paola Alexandra Moya',
