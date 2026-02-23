@@ -117,7 +117,7 @@
           img(src="@/assets/curso/tema5/6.png" alt="").m-auto
 
     //- ## pestañas-horizontales (TabsC) con imagen + texto por tab
-    TabsC.color-acento-contenido.mb-5(data-aos="zoom-in")
+    TabsC.color-acento-contenido.mb-5.bg-color-11(data-aos="zoom-in")
       .py-4.px-3(titulo="Seguridad alimentaria")
         .row.align-items-center
           .col-lg-5.mb-3.mb-lg-0
@@ -173,7 +173,7 @@
     //- ## bgcolor-icono-card col:10 (#D9E8F9)
     .row.justify-content-center.mb-5
       .col-lg-10
-        .bg-color-3.p-4.rounded-3(data-aos="fade-up")
+        .bg-color-3.p-4.rounded-3(data-aos="fade-in")
           .row.align-items-center
             .col-lg-auto
               img(src="@/assets/curso/tema5/svg/7.svg" style="max-width: 120px" alt="").m-auto.mb-4.mb-lg-0

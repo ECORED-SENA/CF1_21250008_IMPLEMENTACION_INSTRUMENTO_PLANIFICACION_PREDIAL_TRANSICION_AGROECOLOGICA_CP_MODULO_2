@@ -96,15 +96,15 @@
           img(src="@/assets/curso/tema4/8.png" alt="")
       .col-lg-8(data-aos="fade-left")
         TabsA.color-acento-contenido
-          .tarjeta.p-4(titulo="Productiva")
+          .tarjeta.color-acento-contenido--borde.p-4(titulo="Productiva")
             p.mb-0 Incluye especies con funciones alimenticias, medicinales, ecológicas o culturales directamente aprovechadas por la familia campesina.
-          .tarjeta.p-4(titulo="Asociada")
+          .tarjeta.color-acento-contenido--borde.p-4(titulo="Asociada")
             p.mb-0 Especies que coexisten en el predio sin ser manejadas directamente, pero que influyen en su funcionamiento: arvenses, fauna silvestre, microorganismos espontáneos.
-          .tarjeta.p-4(titulo="Indicadora")
+          .tarjeta.color-acento-contenido--borde.p-4(titulo="Indicadora")
             p.mb-0 Especies cuya presencia, abundancia o comportamiento refleja el estado ecológico del sistema: fertilidad, equilibrio o degradación.
-          .tarjeta.p-4(titulo="Funcional")
+          .tarjeta.color-acento-contenido--borde.p-4(titulo="Funcional")
             p.mb-0 Especies con potencial ecológico, cultural o económico que pueden incorporarse al sistema para mejorar su funcionamiento: insectos depredadores, plantas nativas, hongos benéficos.
-          .tarjeta.p-4(titulo="Antagonista")
+          .tarjeta.color-acento-contenido--borde.p-4(titulo="Antagonista")
             p.mb-0 Especies que afectan negativamente el agroecosistema: plagas, patógenos o arvenses invasoras. Indican desequilibrios y pueden ser reguladas mediante biodiversidad funcional (rotaciones, cobertura, control biológico).
 
     //- //p (suelto)

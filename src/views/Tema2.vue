@@ -33,25 +33,25 @@
     p.mb-5 El diagnóstico productivo no solo describe el estado actual del predio, sino que también se convierte en una herramienta estratégica para guiar el cambio hacia sistemas más sostenibles, autónomos y resilientes. A continuación, se presenta una tabla que sintetiza sus principales aportes en la transición agroecológica:
 
     //- ## pestanas-verticales col:10
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-3
       .col-lg-8
         TabsA.color-acento-contenido(data-aos="zoom-in")
-          .tarjeta.color-acento-contenido--borde.p-4(titulo="Base para el rediseño funcional")
+          .tarjeta.color-acento-contenido--borde.p-4(titulo="<span style='white-space: normal; display: block; line-height: 1.2;'>Base para el rediseño funcional</span>")
             h4 Base para el rediseño funcional
             p.mb-0 Permite comprender cómo se articulan los componentes productivos del predio y qué ajustes pueden fortalecer su eficiencia ecológica.
-          .tarjeta.color-acento-contenido--borde.p-4(titulo="Lectura crítica del modelo dominante")
+          .tarjeta.color-acento-contenido--borde.p-4(titulo="<span style='white-space: normal; display: block; line-height: 1.2;'>Lectura crítica del modelo dominante</span>")
             h4 Lectura crítica del modelo dominante
             p.mb-0 Visibiliza prácticas heredadas del Sistema Agroalimentario Dominante (SAD) que generan dependencia, degradación o fragmentación.
-          .tarjeta.color-acento-contenido--borde.p-4(titulo="Activación de procesos regenerativos")
+          .tarjeta.color-acento-contenido--borde.p-4(titulo="<span style='white-space: normal; display: block; line-height: 1.2;'>Activación de procesos regenerativos</span>")
             h4 Activación de procesos regenerativos
             p.mb-0 Identifica oportunidades para integrar cultivos y animales, reciclar nutrientes, diversificar especies y fortalecer la autonomía alimentaria.
-          .tarjeta.color-acento-contenido--borde.p-4(titulo="Fortalecimiento de la toma de decisiones")
+          .tarjeta.color-acento-contenido--borde.p-4(titulo="<span style='white-space: normal; display: block; line-height: 1.2;'>Fortalecimiento de la toma de decisiones</span>")
             h4 Fortalecimiento de la toma de decisiones
             p.mb-0 Brinda información clara para priorizar acciones, asignar recursos y construir planes de acción predial.
-          .tarjeta.color-acento-contenido--borde.p-4(titulo="Reconocimiento de saberes funcionales")
+          .tarjeta.color-acento-contenido--borde.p-4(titulo="<span style='white-space: normal; display: block; line-height: 1.2;'>Reconocimiento de saberes funcionales</span>")
             h4 Reconocimiento de saberes funcionales
             p.mb-0 Integra conocimientos campesinos sobre manejo, adaptación, selección y uso de recursos productivos.
-          .tarjeta.color-acento-contenido--borde.p-4(titulo="Monitoreo de la transición")
+          .tarjeta.color-acento-contenido--borde.p-4(titulo="<span style='white-space: normal; display: block; line-height: 1.2;'>Monitoreo de la transición</span>")
             h4 Monitoreo de la transición
             p.mb-0 Establece una línea base para evaluar cambios en productividad, eficiencia ecológica y soberanía territorial.
 
