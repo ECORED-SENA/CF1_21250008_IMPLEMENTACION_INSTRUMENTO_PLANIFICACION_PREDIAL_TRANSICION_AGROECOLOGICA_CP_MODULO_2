@@ -244,7 +244,7 @@
     //- ## video
     figure.mb-5(data-aos="fade-up")
       .video.mb-2
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/J9W66gPH0DM?si=ErCCirwJvi3rPKct" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption.mt-2 Título del video
 
     //- #### Homogeneización productiva y lógica contra natura
